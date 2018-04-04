@@ -1,4 +1,3 @@
-
 $( document ).ready(function() {
 
     // nature in array below
